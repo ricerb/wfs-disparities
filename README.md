@@ -1,0 +1,1 @@
+This repository houses a copy of the code used to develop Rice et al. (2025) "Wildland fire smoke adds to disproportionate PM2.5 exposure in the United States" (https://doi.org/10.1021/acsestair.4c00173), available on Data.gov here https://doi.org/10.23719/1531732.
